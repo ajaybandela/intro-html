@@ -1,0 +1,11 @@
+HTML(markup language which means uses a collection of tags)
+CSS(Styling language using which we can style the webPage)
+javaScript
+
+vs CODE shortcuts:
+saving a file : ctrl + s
+copy : ctrl + c
+paste : ctrl + v
+undo : ctrl + z
+redo : ctrl + y
+select a line : ctrl + l
